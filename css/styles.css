@@ -1,0 +1,68 @@
+body {
+  padding: 50px 0px 0px 0px;
+  z-index: 0; }
+
+.row-header {
+  margin: 0px auto;
+  padding: 0px auto; }
+
+.row-content {
+  margin: 0px auto;
+  padding: 50px 0px 50px 0px;
+  border-bottom: 1px ridge;
+  min-height: 250px; }
+
+.footer {
+  background-color: #FFEDE1;
+  margin: 0px auto;
+  padding: 20px 0px 20px 0px; }
+
+.jumbotron {
+  padding: 70px 30px 70px 30px;
+  margin: 0px auto;
+  background: #512da8;
+  color: white; }
+
+address {
+  font-size: 80%; }
+
+nav {
+  background: #512da8; }
+
+.tab-content {
+  border-left: solid 1px #ddd;
+  border-right: solid 1px #ddd;
+  border-bottom: solid 1px #ddd;
+  padding: 10px; }
+
+.carousel {
+  background: #512da8; }
+
+.carousel-item {
+  height: 250px; }
+  .carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px; }
+
+#carouselButton {
+  position: absolute;
+  right: 0px;
+  bottom: 0px; }
+
+#login:hover {
+  cursor: pointer; }
+
+.modal-header {
+  background: #512da8;
+  color: floralwhite; }
+
+.modal-body {
+  background: #512da854; }
+
+.close {
+  color: floralwhite; }
+
+.close:hover {
+  color: red; }
